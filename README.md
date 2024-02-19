@@ -1,2 +1,2 @@
-# projek-web-kelas-10-smstr2
-repo projek semester 2 kelas 10 website dinamis
+# projek-web-kelas-11-smstr1
+repo projek semester 1 kelas 11 website dinamis
